@@ -41,7 +41,7 @@ Hackintosh is a complex and unsupported process. Use this EFI at your own risk. 
    - Install any necessary kexts or drivers for additional functionality.
 
 ## Credits
-- [List any tools, guides, or contributors you used, e.g., OpenCore, Dortania, etc.]
+- OpenCore, Dortania.
 
 
 ---
