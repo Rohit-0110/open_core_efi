@@ -7,21 +7,20 @@ Hackintosh is a complex and unsupported process. Use this EFI at your own risk. 
 
 ## Laptop Specifications
 - **Model**: ASUS X540UAR
-- **Processor**: [Insert CPU model, e.g., Intel Core i5-8250U]
-- **Graphics**: [Insert GPU model, e.g., Intel UHD Graphics 620]
-- **RAM**: [Insert RAM size, e.g., 8GB DDR4]
-- **Storage**: [Insert storage type, e.g., 256GB SSD]
-- **Wi-Fi**: [Insert Wi-Fi card model, e.g., Realtek RTL8821CE]
-- **Audio**: [Insert audio codec, e.g., Realtek ALC256]
+- **Processor**: Intel Core i5-8250U
+- **Graphics**: Intel UHD Graphics 620
+- **RAM**: 8GB DDR4
+- **Storage**: 256GB SSD
+- **Wi-Fi**: inbuilt
+- **Audio**: inbuilt
 
 ## What Works
-- [List working components, e.g., Graphics, Audio, etc.]
-- [Add any additional features that work, e.g., USB ports, trackpad, etc.]
+- [Graphics, Audio]
+- [USB ports, keyboard, trackpad]
 
 ## What Doesn't Work
-- [List non-working components, e.g., wifi, bluetooth.]
-- [Add any known issues or limitations.]
-
+- [wifi, bluetooth]
+  
 ## Installation Guide
 1. **Prepare a macOS Installer**:
    - Create a bootable macOS installer using a USB drive and tools like [OpenCore](https://dortania.github.io/OpenCore-Install-Guide/) or [Clover](https://sourceforge.net/projects/cloverefiboot/).
